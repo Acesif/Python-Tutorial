@@ -24,6 +24,8 @@ You can write you code in a code editor, notepad or even carve them in cave wall
 Data types, in simple terms, just a way of telling the compiler what in the world did you type. Humans can easily recognize that 1,2,3 are numbers and a,b,c are alphabets. 
 But for the compilers to recognize, we have to write it in a certain way.
 For other programming languages, ex: Java. You can specify the data type by specifying it infront of any variable.
+
 ``` _Data type_ variable_name = __value__; ```
+
 But for python, that isn't necessary, but how will the compiler recognize the data type? We'll discuss that later. First we need to know what the data types are and what makes them different.
 
